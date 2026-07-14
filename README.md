@@ -39,5 +39,5 @@ Python, biotechnology, bioinformatics, or anything I'm currently learning!
 When I'm not studying, you'll probably find me listening to music, reading about topics far outside my field, or exploring new ideas just for the fun of learning.
 
 Computational Biology • Bioinformatics • AI for Biology<br>
-[LinkedIn](https://www.linkedin.com/in/ira-navneet-hrishikesan-0aa6913b9/) • India
+[LinkedIn](https://www.linkedin.com/in/ira-navneet-hrishikesan-0aa6913b9/) 
 
