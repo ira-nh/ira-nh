@@ -1,33 +1,42 @@
-## Hi there 👋
+# Hi there! 👋
 
-🔭 I’m currently working on my undergraduate degree in Biotechnology Engineering, currently in my second year.
+I'm an undergraduate Biotechnology Engineering student with a growing interest in **computational biology, bioinformatics, and AI for the life sciences**. I enjoy using programming and data analysis to answer biological questions and am currently building a strong foundation in computational research.
 
-🌱 I’m currently learning R programming and data analytics.
+## 🌱 Currently learning
 
-👯 I’m looking to collaborate on bioinformatics, my main area of interest.
+* Python for bioinformatics
+* R for data analysis and visualization
+* Sequence analysis and computational biology workflows
+* Git and GitHub for version control
 
-🤔 I’m looking for help with understanding which skills I can learn or enhance that would be useful for future employability and personal learning growth.
+## 🔬 Interests
 
-💬 Ask me about anything I have done/ if you would like to collaborate or understand more about my work!
+* Bioinformatics
+* Computational biology
+* Machine learning in biology
+* Genomics and systems biology
 
-📫 How to reach me: My email id: ira.mitmpl2024@learner.manipal.edu
+## 🚀 What I'm working on
 
-😄 Pronouns: she/her
+* Solving Rosalind bioinformatics problems
+* Building a stronger Python portfolio
+* Exploring research opportunities in computational biology
+* Learning tools commonly used in biological data analysis
 
-⚡ Fun fact: I love learning new things in most fields. Outside of coding and biology, my passions include music, politics, and fitness, among many others.
+## 🤝 Open to
+
+* Collaborating on beginner-friendly bioinformatics projects
+* Learning from researchers and developers in computational biology
+* Open-source contributions
+
+## 💬 Ask me about
+
+Python, biotechnology, bioinformatics, or anything I'm currently learning!
+💼 LinkedIn: [Ira Navneet Hrishikesan](https://www.linkedin.com/in/ira-navneet-hrishikesan-0aa6913b9/)
+
+## 🌟 Beyond science
+
+When I'm not studying, you'll probably find me listening to music, reading about topics far outside my field, or exploring new ideas just for the fun of learning.
 
 
-<!--
-**ira-nh/ira-nh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ... my undergraduate degree in Biotechnology Engineering, currently in my second year.
-🌱 I’m currently learning ... R programming and data analytics.
-- 👯 I’m looking to collaborate on ... bioinformatics (knowledge as well as potential future applications, perhaps through research!)
-- 🤔 I’m looking for help with ... understanding which skills I can learn or enhance that would be useful for future employability and personal learning growth. 
-- 💬 Ask me about ... anything I have done/ if you would like to collaborate or understand more about my work!
-- 📫 How to reach me: ... ira.mitmpl2024@learner.manipal.edu
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I love learning new things in most fields. Outside of coding and biology, my passions include music, politics, and fitness.
--->
